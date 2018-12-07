@@ -1,4 +1,4 @@
 # Algoritma-SA
 Tugas AI pertama
 
-# Menggunakan bahasa pemrograman #Java
+# Menggunakan bahasa pemrograman #C++
